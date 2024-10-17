@@ -2,3 +2,4 @@ admin panel design : https://adminlte.io/
 for laravel basic : https://www.youtube.com/results?search_query=bitfumes+laravel
 for laravel basic : https://www.youtube.com/results?search_query=laravel+daily
 laravel crud : https://www.youtube.com/watch?v=gq3dn_lmc-0&list=PLm8sgxwSZofdnsvCXmjcgxiFCqMuRFnpO
+for laravel API : https://www.youtube.com/watch?v=3ofzoX-AV5Y&list=PLpnc60iNQ8bnhvva9Y74BXqmy4ad3I25L
